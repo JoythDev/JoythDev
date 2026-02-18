@@ -49,8 +49,8 @@ I am actively developing expertise in the following stack:
 I am currently diving deep into:
 * **Data Structures:** Java Collections Framework.
 * **Architecture:** Design Patterns and UML.
-* **DevOps:** CI/CD Pipelines and Agile Methodologies.
-* **Tools:** Git & GitHub best practices.
+* **DevOps:** Agile Methodologies, Scrum Framework and CI/CD Pipelines.
+* **Tools:** Git & GitHub, GitHub Projects and GitHub Actions.
 
 ---
 
