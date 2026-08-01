@@ -47,9 +47,10 @@ I am actively developing expertise in the following stack:
 ### 🎯 Roadmap & Learning Path
 
 I am currently diving deep into:
-* **Data Structures:** Java Collections Framework.
+* **Web Development:** HTTP, DOM, JS.
+* **Mobile Development:** Android, Kotlin, Compose.
 * **Architecture:** Design Patterns and UML.
-* **DevOps:** Agile Methodologies, Scrum Framework and CI/CD Pipelines.
+* **DevOps:** Agile Methodologies, Scrum Framework, and CI/CD Pipelines.
 * **Tools:** Git & GitHub, GitHub Projects and GitHub Actions.
 
 ---
