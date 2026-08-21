@@ -80,9 +80,6 @@ I am currently diving deep into:
   <a href="https://github.com/JoythDev">
     <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=JoythDev&show_icons=true&include_all_commits=true&hide_border=true&title_color=70a5fd&text_color=c9d1d9&icon_color=38bdae&bg_color=0d1117" alt="GitHub Stats">
   </a>
-  <a href="https://github.com/JoythDev">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoythDev&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&icon_color=38bdae&bg_color=0d1117" alt="Most Used Languages">
-  </a>
 </p>
 
 <p align="center">
@@ -90,7 +87,7 @@ I am currently diving deep into:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoythDev&bg_color=0d1117&color=c9d1d9&line=38bdae&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoythDev&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=38bdae&point=70a5fd&area_color=38bdae&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph">
 </p>
 
 ---
