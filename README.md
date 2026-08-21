@@ -47,8 +47,8 @@ I am actively developing expertise in the following stack:
 ### 🎯 Roadmap & Learning Path
 
 I am currently diving deep into:
-* **Web Development:** HTTP, DOM, JS.
-* **Mobile Development:** Android, Kotlin, Compose.
+* **Web Development:** HTTP, DOM, JS, TS.
+* **Mobile Development:** Android, Kotlin, Jetpack Compose.
 * **Architecture:** Design Patterns and UML.
 * **DevOps:** Agile Methodologies, Scrum Framework, and CI/CD Pipelines.
 * **Tools:** Git & GitHub, GitHub Projects and GitHub Actions.
@@ -64,7 +64,6 @@ Let's talk about backend development, architecture, or tech in general!
 
 ---
 
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
-> — *Martin Fowler*
+> "Code has become a commodity; system architecture, constraints, and business context are the real engineering frontiers."
 
 **Thanks for visiting! Feel free to explore my repositories.**
