@@ -78,15 +78,15 @@ I am currently diving deep into:
 
 <p align="center">
   <a href="https://github.com/JoythDev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoythDev&show_icons=true&include_all_commits=true&hide_border=true&title_color=70a5fd&text_color=c9d1d9&icon_color=38bdae&bg_color=0d1117" alt="GitHub Stats">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=JoythDev&show_icons=true&include_all_commits=true&hide_border=true&title_color=70a5fd&text_color=c9d1d9&icon_color=38bdae&bg_color=0d1117" alt="GitHub Stats">
   </a>
   <a href="https://github.com/JoythDev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoythDev&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&icon_color=38bdae&bg_color=0d1117" alt="Most Used Languages">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoythDev&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&icon_color=38bdae&bg_color=0d1117" alt="Most Used Languages">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoythDev&hide_border=true&background=0D1117&ring=70A5FD&fire=F97316&currStreakLabel=70A5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution Streak">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=JoythDev&hide_border=true&background=0D1117&ring=70A5FD&fire=F97316&currStreakLabel=70A5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution Streak">
 </p>
 
 <p align="center">
