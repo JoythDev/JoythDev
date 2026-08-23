@@ -141,10 +141,7 @@ I have started expanding into frontend and full-stack development:
   <a href="https://github.com/JoythDev">
     <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=JoythDev&show_icons=true&include_all_commits=true&hide_border=true&title_color=70a5fd&text_color=c9d1d9&icon_color=38bdae&bg_color=0d1117" alt="GitHub Stats">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=JoythDev&hide_border=true&background=0D1117&ring=70A5FD&fire=F97316&currStreakLabel=70A5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution Streak">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=JoythDev&hide_border=true&background=0d1117&ring=70a5fd&fire=38bdae&currStreakLabel=70a5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="Contribution Streak">
 </p>
 
 <p align="center">
