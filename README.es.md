@@ -1,12 +1,12 @@
-<p align="right"><b>English</b> · <a href="README.es.md">Español</a></p>
+<p align="right"><a href="README.md">English</a> · <b>Español</b></p>
 
-<h1 align="center">Hi, I'm Nicolas Joya 👋</h1>
+<h1 align="center">¡Hola! Soy Nicolas Joya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=640&height=70&lines=Backend+Engineer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;REST+APIs+with+Testing+%26+Security;Turning+Code+into+Solutions+that+Create+Value" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=640&height=70&lines=Ingeniero+Backend;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;APIs+REST+con+Testing+y+Seguridad;Convirtiendo+c%C3%B3digo+en+soluciones+que+generan+valor" alt="Typing SVG">
 </p>
 
-<h3 align="center">☕ Backend Engineer · Java & Spring Boot · Bogotá → Remote-friendly</h3>
+<h3 align="center">☕ Ingeniero Backend · Java & Spring Boot · Bogotá → Remoto</h3>
 
 <p align="center">
   <a href="https://github.com/JoythDev"><img src="https://img.shields.io/badge/GitHub-JoythDev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -14,34 +14,34 @@
   <a href="https://www.linkedin.com/in/nicolas-joya/"><img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Joya-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center">I build <strong>robust, scalable backend systems</strong> with Java and Spring Boot — and I care about what happens after the code is written: tested, deployed, observed, and actually useful to someone.</p>
+<p align="center">Construyo <strong>sistemas backend robustos y escalables</strong> con Java y Spring Boot — y me importa lo que sucede después de escribir el código: probarlo, desplegarlo, observarlo y que sea realmente útil para alguien.</p>
 
 ---
 
-### 📖 About Me
+### 📖 Sobre mí
 
-* 📍 Based in **Bogotá, Colombia** — open to remote internships and junior roles.
-* 🎓 **Systems Engineering** student at the **Pontifical Javeriana University**, specializing independently as a backend engineer.
-* ☕ Deep in the **Java + Spring Boot ecosystem**: REST APIs, Spring Security, testing, persistence.
-* 🔄 Constant learner beyond the code: **deployment, QA, DevOps, testing strategies, and agentic development**.
-* 🎯 Goal: join a team where I can ship **reliable services that generate value fast** — and grow toward product engineering.
-
----
-
-### 🧭 How I Approach Engineering
-
-I want to move beyond writing code — I want to build products. My compass:
-
-* 🎯 **Value first** — The best solution is the one that solves a real problem quickly, not the most elegant one that solves nothing.
-* ✅ **Quality as a habit** — Testing (JUnit 5, Mockito), SOLID principles, clean code, static analysis. Bugs caught early are cheap.
-* 🚀 **Ship it** — Containerized apps, CI/CD pipelines, and deployment awareness. Software only creates value when it's running in production.
-* 🏗️ **Think in systems** — Currently studying software architecture, systems design, and distributed systems to understand *why* things scale — not just *how*.
+* 📍 Radicado en **Bogotá, Colombia** — abierto a pasantías y roles junior remotos.
+* 🎓 Estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana**, especializándome de forma autodidacta como ingeniero backend.
+* ☕ Inmerso en el ecosistema **Java + Spring Boot**: APIs REST, Spring Security, testing, persistencia.
+* 🔄 Aprendiz constante más allá del código: **despliegue, QA, DevOps, estrategias de testing y desarrollo agéntico**.
+* 🎯 Meta: unirme a un equipo donde pueda entregar **servicios confiables que generen valor rápido** — y crecer hacia la ingeniería de producto.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🧭 Cómo abordo la ingeniería
 
-**Core stack — my daily drivers**
+Quiero ir más allá de escribir código — quiero construir productos. Mi brújula:
+
+* 🎯 **Primero el valor** — La mejor solución es la que resuelve un problema real rápido, no la más elegante que no resuelve nada.
+* ✅ **Calidad como hábito** — Testing (JUnit 5, Mockito), principios SOLID, código limpio, análisis estático. Los bugs detectados temprano son baratos.
+* 🚀 **Entregarlo** — Apps containerizadas, pipelines de CI/CD y conciencia de despliegue. El software solo genera valor cuando corre en producción.
+* 🏗️ **Pensar en sistemas** — Estudiando arquitectura de software, diseño de sistemas y sistemas distribuidos para entender *por qué* escalan las cosas, no solo *cómo*.
+
+---
+
+### 🛠️ Habilidades y Tecnologías
+
+**Stack principal — mis herramientas de todos los días**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -63,7 +63,7 @@ I want to move beyond writing code — I want to build products. My compass:
 </p>
 
 <details>
-<summary><b>⚡ Actively strengthening</b> — <i>click to expand</i></summary>
+<summary><b>⚡ Fortaleciendo activamente</b> — <i>clic para expandir</i></summary>
 <br>
 
 <p align="center">
@@ -88,10 +88,10 @@ I want to move beyond writing code — I want to build products. My compass:
 </details>
 
 <details>
-<summary><b>🌱 Expanding horizons</b> — <i>fullstack, mobile & AI-assisted development</i></summary>
+<summary><b>🌱 Ampliando horizontes</b> — <i>fullstack, móvil y desarrollo asistido con IA</i></summary>
 <br>
 
-**Fullstack track**
+**Ruta fullstack**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
@@ -103,14 +103,14 @@ I want to move beyond writing code — I want to build products. My compass:
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
-**Mobile track**
+**Ruta móvil**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
 </p>
 
-**AI-assisted development**
+**Desarrollo asistido con IA**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
@@ -124,59 +124,59 @@ I want to move beyond writing code — I want to build products. My compass:
 
 ---
 
-### 🔨 Currently Building
+### 🔨 Construyendo ahora
 
-> Real-world projects to sharpen my craft — from idea to tested, secured, deployable product.
+> Proyectos del mundo real para afilar mi oficio — de la idea a un producto probado, seguro y desplegable.
 
-#### 🐾 PetHaven — Veterinary Clinic Management Platform `🚧 In progress`
+#### 🐾 PetHaven — Plataforma de Gestión para Clínicas Veterinarias `🚧 En progreso`
 
-A fullstack pet clinic system where every role gets its own experience:
+Un sistema fullstack para clínicas veterinarias donde cada rol tiene su propia experiencia:
 
-* 🩺 **Vets** register owners and pets, treat patients, and log treatments through a full dashboard.
-* 🐕 **Owners** log in securely to check their pets' status and treatment history.
-* 💊 **Admins** manage vet staff and medicine inventory.
+* 🩺 Los **veterinarios** registran dueños y mascotas, atienden pacientes y registran tratamientos desde un dashboard completo.
+* 🐕 Los **dueños** inician sesión de forma segura para consultar el estado de sus mascotas y su historial de tratamientos.
+* 💊 Los **administradores** gestionan el equipo veterinario y el inventario de medicamentos.
 
 | Backend | Frontend |
 |---------|----------|
-| Java · Spring Boot · REST API · Spring Security · JUnit 5 | Angular · TypeScript · Tailwind CSS · PrimeNG |
+| Java · Spring Boot · API REST · Spring Security · JUnit 5 | Angular · TypeScript · Tailwind CSS · PrimeNG |
 | PostgreSQL | |
 
-*More projects coming soon — watch this space.*
+*Más proyectos pronto — mantente atento.*
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <a href="https://github.com/JoythDev">
     <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=JoythDev&show_icons=true&include_all_commits=true&hide_border=true&title_color=70a5fd&text_color=c9d1d9&icon_color=38bdae&bg_color=0d1117" alt="GitHub Stats">
   </a>
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=JoythDev&hide_border=true&background=0d1117&ring=70a5fd&fire=38bdae&currStreakLabel=70a5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="Contribution Streak">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=JoythDev&hide_border=true&background=0d1117&ring=70a5fd&fire=38bdae&currStreakLabel=70a5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="Racha de Contribuciones">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoythDev&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=38bdae&point=70a5fd&area_color=38bdae&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoythDev&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=38bdae&point=70a5fd&area_color=38bdae&area=true&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribuciones" alt="Gráfico de Contribuciones">
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoythDev/JoythDev/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoythDev/JoythDev/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/JoythDev/JoythDev/output/github-contribution-grid-snake.svg">
+    <img alt="Serpiente de Contribuciones" src="https://raw.githubusercontent.com/JoythDev/JoythDev/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 ---
 
-### 📫 Connect with me
+### 📫 Conecta conmigo
 
-Let's talk about backend development, architecture, or tech in general!
+¡Hablemos de desarrollo backend, arquitectura o tecnología en general!
 
 * 📧 **Email:** [nicolas.joya.dev@gmail.com](mailto:nicolas.joya.dev@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/nicolas-joya](https://www.linkedin.com/in/nicolas-joya/)
 
 ---
 
-<p align="center"><em>"Code has become a commodity; system architecture, constraints, and business context are the real engineering frontiers."</em></p>
+<p align="center"><em>"El código se ha vuelto una commodity; la arquitectura de sistemas, las restricciones y el contexto de negocio son las verdaderas fronteras de la ingeniería."</em></p>
 
-<p align="center"><strong>Thanks for visiting! Feel free to explore my repositories.</strong></p>
+<p align="center"><strong>¡Gracias por visitar! Siéntete libre de explorar mis repositorios.</strong></p>
