@@ -128,7 +128,7 @@ I want to move beyond writing code — I want to build products. My compass:
 
 > Real-world projects to sharpen my craft — from idea to tested, secured, deployable product.
 
-#### 🐾 PetHaven — Veterinary Clinic Management Platform `🚧 In progress`
+#### 🐾 [PetHaven](https://github.com/JoythDev/pethaven) — Veterinary Clinic Management Platform `🚧 In progress`
 
 A fullstack pet clinic system where every role gets its own experience:
 
