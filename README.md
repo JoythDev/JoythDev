@@ -155,7 +155,7 @@ A fullstack pet clinic system where every role gets its own experience:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoythDev&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=38bdae&point=70a5fd&area_color=38bdae&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph">
+  <img src="https://raw.githubusercontent.com/JoythDev/JoythDev/assets/contribution-graph.svg" alt="Contribution Graph">
 </p>
 
 <p align="center">

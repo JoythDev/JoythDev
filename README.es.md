@@ -155,7 +155,7 @@ Un sistema fullstack para clínicas veterinarias donde cada rol tiene su propia 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoythDev&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=38bdae&point=70a5fd&area_color=38bdae&area=true&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribuciones" alt="Gráfico de Contribuciones">
+  <img src="https://raw.githubusercontent.com/JoythDev/JoythDev/assets/contribution-graph.svg" alt="Gráfico de Contribuciones">
 </p>
 
 <p align="center">

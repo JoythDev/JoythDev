@@ -1,0 +1,38 @@
+name: Generate Contribution Graph
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/contribution-graph.yml"
+      - ".github/scripts/generate-contribution-graph.mjs"
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate contribution graph SVG
+        run: node .github/scripts/generate-contribution-graph.mjs "${{ github.repository_owner }}" "dist/contribution-graph.svg"
+
+      - name: Push to assets branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: assets
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
