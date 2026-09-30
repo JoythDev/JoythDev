@@ -139,7 +139,7 @@ A fullstack pet clinic system where every role gets its own experience:
 | Backend | Frontend |
 |---------|----------|
 | Java · Spring Boot · REST API · Spring Security · JUnit 5 | Angular · TypeScript · Tailwind CSS · PrimeNG |
-| PostgreSQL | |
+| H2 · PostgreSQL · Docker Compose | RxJS |
 
 *More projects coming soon — watch this space.*
 
