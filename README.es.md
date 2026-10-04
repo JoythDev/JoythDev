@@ -139,7 +139,7 @@ Un sistema fullstack para clínicas veterinarias donde cada rol tiene su propia 
 | Backend | Frontend |
 |---------|----------|
 | Java · Spring Boot · API REST · Spring Security · JUnit 5 | Angular · TypeScript · Tailwind CSS · PrimeNG |
-| PostgreSQL | |
+| H2 · PostgreSQL · Docker Compose | RxJS |
 
 *Más proyectos pronto — mantente atento.*
 
