@@ -136,10 +136,14 @@ A fullstack pet clinic system where every role gets its own experience:
 * 🐕 **Owners** log in securely to check their pets' status and treatment history.
 * 💊 **Admins** manage vet staff and medicine inventory.
 
+> **🧩 My role in PetHaven**
+>
+> I'm the **backend lead of a four-person team**. My work on PetHaven is multidisciplinary — it spans domain modeling with JPA/Hibernate and the migration of the UI to Angular — but my focus is the backend: I own the move from server-rendered Thymeleaf views to a robust, layered REST API (`controller → service → repository`) with DTOs and centralized error handling. The REST layer is already in place, and my next step is to harden it with **Spring Security** and cover it with a **JUnit 5 + Mockito** test suite.
+
 | Backend | Frontend |
 |---------|----------|
-| Java · Spring Boot · REST API · Spring Security · JUnit 5 | Angular · TypeScript · Tailwind CSS · PrimeNG |
-| H2 · PostgreSQL · Docker Compose | RxJS |
+| Java 21 · Spring Boot · REST API · JPA/Hibernate · H2 · Maven | Angular · TypeScript · Tailwind CSS · PrimeNG · RxJS |
+| *Planned:* Spring Security · JUnit 5 + Mockito · PostgreSQL · Docker Compose | *Planned:* REST API integration |
 
 *More projects coming soon — watch this space.*
 
