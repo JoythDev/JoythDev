@@ -147,6 +147,8 @@ A fullstack pet clinic system where every role gets its own experience:
 
 *More projects coming soon — watch this space.*
 
+👔 *Fashtoll (coming soon)*
+
 ---
 
 ### 📊 GitHub Statistics
