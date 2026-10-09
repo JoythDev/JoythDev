@@ -147,6 +147,8 @@ Un sistema fullstack para clínicas veterinarias donde cada rol tiene su propia 
 
 *Más proyectos pronto — mantente atento.*
 
+👔 *Fashtoll (pronto)*
+
 ---
 
 ### 📊 Estadísticas de GitHub
