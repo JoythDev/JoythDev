@@ -151,6 +151,8 @@ A fullstack system that digitizes the operation of a veterinary clinic specializ
 
 *More projects coming soon — watch this space.*
 
+👔 *Fashtoll (coming soon)*
+
 ---
 
 ### 📊 GitHub Statistics

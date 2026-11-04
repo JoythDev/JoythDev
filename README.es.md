@@ -151,6 +151,8 @@ Un sistema fullstack que digitaliza la operación de una clínica veterinaria es
 
 *Más proyectos pronto — mantente atento.*
 
+👔 *Fashtoll (pronto)*
+
 ---
 
 ### 📊 Estadísticas de GitHub
