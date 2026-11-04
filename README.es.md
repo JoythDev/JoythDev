@@ -130,20 +130,24 @@ Quiero ir más allá de escribir código — quiero construir productos. Mi brú
 
 #### 🐾 PetHaven — Plataforma de Gestión para Clínicas Veterinarias `🚧 En progreso`
 
-Un sistema fullstack para clínicas veterinarias donde cada rol tiene su propia experiencia:
+Un sistema fullstack que digitaliza la operación de una clínica veterinaria especializada en la **hospitalización de perros y gatos** — inventario, atenciones médicas y seguimiento de pacientes que antes vivían en papel y hojas de Excel. El backend Spring Boot expone todo como una **API REST** y una **SPA en Angular** la consume a través de tres portales según el rol:
 
-* 🩺 Los **veterinarios** registran dueños y mascotas, atienden pacientes y registran tratamientos desde un dashboard completo.
-* 🐕 Los **dueños** inician sesión de forma segura para consultar el estado de sus mascotas y su historial de tratamientos.
-* 💊 Los **administradores** gestionan el equipo veterinario y el inventario de medicamentos.
+* 🩺 Los **veterinarios** registran dueños y mascotas, registran tratamientos con descuento automático de inventario, anotan el diagnóstico y la evolución de cada consulta, dan de alta a los pacientes y descargan la historia clínica de la mascota en PDF.
+* 🐕 Los **dueños** inician sesión para consultar sus mascotas hospitalizadas en tarjetas, junto con el historial de tratamientos de cada una.
+* 💊 Los **administradores** gestionan el equipo veterinario y las mascotas, administran el inventario de medicamentos (CRUD completo e importación masiva desde Excel) y analizan los KPIs del negocio: tratamientos del mes, ventas, ganancias y medicamentos más usados.
+
+> **📊 Estado del proyecto**
+>
+> Las Entregas 1 y 2 están completas (diseño, CRUD, los tres portales, dashboard de KPIs y la SPA en Angular). La Entrega 3 está en marcha: la suite de pruebas del backend ya está lista — **676 pruebas automatizadas** (647 unitarias y 29 de integración) con un **mínimo de 80% de cobertura de líneas con JaCoCo** en servicios y controladores —, y lo siguiente son el control de acceso por roles (Spring Security + JWT) y las pruebas del frontend. Además ya hay un roadmap de producción definido: PostgreSQL + Flyway, Docker y CI/CD con GitHub Actions hacia Render y Vercel.
 
 > **🧩 Mi rol en PetHaven**
 >
-> Soy el **líder de backend de un equipo de cuatro personas**. Mi trabajo en PetHaven es multidisciplinario — abarca el modelado del dominio con JPA/Hibernate y la migración de la interfaz a Angular —, pero mi foco está en el backend: ahí lidero la migración de las vistas Thymeleaf renderizadas en el servidor hacia una API REST robusta y por capas (`controller → service → repository`), con DTOs y manejo centralizado de errores. La capa REST ya está en marcha, y mi siguiente paso es reforzarla con **Spring Security** y cubrirla con una suite de pruebas **JUnit 5 + Mockito**.
+> Soy el **líder de backend de un equipo de cuatro personas** y quien más aporta al repositorio. Diseñé el modelo de dominio con JPA/Hibernate y lideré la migración de las vistas Thymeleaf renderizadas en el servidor hacia una API REST por capas (`controller → service → repository`), con DTOs, validaciones, manejo centralizado de errores y documentación OpenAPI/Swagger. Construí los endpoints del dashboard de KPIs, la gestión de medicamentos y su importación desde Excel (Apache POI), y la suite de pruebas del backend: unitarias con Mockito, de repositorio con `@DataJpaTest`, de controlador con `@WebMvcTest` y de integración con `@SpringBootTest`. También aporto a la interfaz Angular (como el portal de gestión de medicamentos) y redacté el roadmap de producción. Mi siguiente paso es reforzar la API con **Spring Security + JWT** y dejarla lista para el despliegue.
 
 | Backend | Frontend |
 |---------|----------|
-| Java 21 · Spring Boot · API REST · JPA/Hibernate · H2 · Maven | Angular · TypeScript · Tailwind CSS · PrimeNG · RxJS |
-| *Planificado:* Spring Security · JUnit 5 + Mockito · PostgreSQL · Docker Compose | *Planificado:* integración con la API REST |
+| Java 21 · Spring Boot 4.1 · API REST · JPA/Hibernate · H2 · Apache POI · OpenAPI/Swagger · JUnit 5 + Mockito + MockMvc · JaCoCo · Maven | Angular 19 · TypeScript · Tailwind CSS 4 · PrimeNG · RxJS · jsPDF |
+| *Planificado:* Spring Security + JWT · PostgreSQL + Flyway · Docker Compose · CI/CD con GitHub Actions | *Planificado:* pruebas end-to-end · despliegue a producción en Vercel |
 
 *Más proyectos pronto — mantente atento.*
 

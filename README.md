@@ -130,20 +130,24 @@ I want to move beyond writing code — I want to build products. My compass:
 
 #### 🐾 [PetHaven](https://github.com/JoythDev/pethaven) — Veterinary Clinic Management Platform `🚧 In progress`
 
-A fullstack pet clinic system where every role gets its own experience:
+A fullstack system that digitizes the operation of a veterinary clinic specialized in **dog and cat hospitalization** — inventory, medical visits and patient follow-up that used to live on paper and Excel sheets. The Spring Boot backend exposes everything as a **REST API**, and an **Angular SPA** consumes it through three role-based portals:
 
-* 🩺 **Vets** register owners and pets, treat patients, and log treatments through a full dashboard.
-* 🐕 **Owners** log in securely to check their pets' status and treatment history.
-* 💊 **Admins** manage vet staff and medicine inventory.
+* 🩺 **Vets** register owners and pets, log treatments with automatic stock deduction, record each visit's diagnosis and evolution, discharge patients, and download a pet's clinical history as a PDF.
+* 🐕 **Owners** log in to check their hospitalized pets as cards, along with each pet's treatment history.
+* 💊 **Admins** manage vet staff and pets, run the medicine inventory (full CRUD plus bulk import from Excel), and track business KPIs: monthly treatments, sales, profit and most-used medicines.
+
+> **📊 Project status**
+>
+> Deliveries 1 and 2 are complete (design, CRUD, the three portals, KPI dashboard and the Angular SPA). Delivery 3 is under way: the backend test suite is done — **676 automated tests** (647 unit + 29 integration) with a **JaCoCo 80%+ line-coverage gate** on services and controllers — while role-based access control (Spring Security + JWT) and frontend tests are next. A production roadmap is already defined: PostgreSQL + Flyway, Docker, and GitHub Actions CI/CD deploying to Render and Vercel.
 
 > **🧩 My role in PetHaven**
 >
-> I'm the **backend lead of a four-person team**. My work on PetHaven is multidisciplinary — it spans domain modeling with JPA/Hibernate and the migration of the UI to Angular — but my focus is the backend: I own the move from server-rendered Thymeleaf views to a robust, layered REST API (`controller → service → repository`) with DTOs and centralized error handling. The REST layer is already in place, and my next step is to harden it with **Spring Security** and cover it with a **JUnit 5 + Mockito** test suite.
+> I'm the **backend lead of a four-person team**, and the main contributor to the repository. I designed the domain model with JPA/Hibernate and led the move from server-rendered Thymeleaf views to a layered REST API (`controller → service → repository`) with DTOs, validation, centralized error handling and OpenAPI/Swagger documentation. I built the KPI dashboard endpoints, the medicine management and Excel import (Apache POI), and the backend test suite — unit tests with Mockito, `@DataJpaTest` repository tests, `@WebMvcTest` controller tests and `@SpringBootTest` integration tests. I also contribute to the Angular UI (such as the medicine management portal) and drafted the production roadmap. Next up: hardening the API with **Spring Security + JWT** and getting it ready for deployment.
 
 | Backend | Frontend |
 |---------|----------|
-| Java 21 · Spring Boot · REST API · JPA/Hibernate · H2 · Maven | Angular · TypeScript · Tailwind CSS · PrimeNG · RxJS |
-| *Planned:* Spring Security · JUnit 5 + Mockito · PostgreSQL · Docker Compose | *Planned:* REST API integration |
+| Java 21 · Spring Boot 4.1 · REST API · JPA/Hibernate · H2 · Apache POI · OpenAPI/Swagger · JUnit 5 + Mockito + MockMvc · JaCoCo · Maven | Angular 19 · TypeScript · Tailwind CSS 4 · PrimeNG · RxJS · jsPDF |
+| *Planned:* Spring Security + JWT · PostgreSQL + Flyway · Docker Compose · GitHub Actions CI/CD | *Planned:* end-to-end tests · production deployment on Vercel |
 
 *More projects coming soon — watch this space.*
 
