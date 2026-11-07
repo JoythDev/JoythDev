@@ -144,10 +144,54 @@ Un sistema fullstack que digitaliza la operación de una clínica veterinaria es
 >
 > Soy el **líder de backend de un equipo de cuatro personas** y quien más aporta al repositorio. Diseñé el modelo de dominio con JPA/Hibernate y lideré la migración de las vistas Thymeleaf renderizadas en el servidor hacia una API REST por capas (`controller → service → repository`), con DTOs, validaciones, manejo centralizado de errores y documentación OpenAPI/Swagger. Construí los endpoints del dashboard de KPIs, la gestión de medicamentos y su importación desde Excel (Apache POI), y la suite de pruebas del backend: unitarias con Mockito, de repositorio con `@DataJpaTest`, de controlador con `@WebMvcTest` y de integración con `@SpringBootTest`. También aporto a la interfaz Angular (como el portal de gestión de medicamentos) y redacté el roadmap de producción. Mi siguiente paso es reforzar la API con **Spring Security + JWT** y dejarla lista para el despliegue.
 
-| Backend | Frontend |
-|---------|----------|
-| Java 21 · Spring Boot 4.1 · API REST · JPA/Hibernate · H2 · Apache POI · OpenAPI/Swagger · JUnit 5 + Mockito + MockMvc · JaCoCo · Maven | Angular 19 · TypeScript · Tailwind CSS 4 · PrimeNG · RxJS · jsPDF |
-| *Planificado:* Spring Security + JWT · PostgreSQL + Flyway · Docker Compose · CI/CD con GitHub Actions | *Planificado:* pruebas end-to-end · despliegue a producción en Vercel |
+<p align="center"><b>⚙️ Backend</b></p>
+
+<p align="center"><sub><b>Base</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/H2-09476B?style=for-the-badge&logo=h2database&logoColor=white" alt="H2">
+  <img src="https://img.shields.io/badge/Apache_POI-D22128?style=for-the-badge" alt="Apache POI">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+</p>
+
+<p align="center"><sub><b>Pruebas</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5">
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito">
+  <img src="https://img.shields.io/badge/JaCoCo-C21325?style=for-the-badge" alt="JaCoCo">
+</p>
+
+<p align="center"><sub><b>🛠️ Planificado</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Security-planificado-555?labelColor=6DB33F&style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security (planificado)">
+  <img src="https://img.shields.io/badge/JWT-planificado-555?labelColor=000000&style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT (planificado)">
+  <img src="https://img.shields.io/badge/PostgreSQL-planificado-555?labelColor=4169E1&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL (planificado)">
+  <img src="https://img.shields.io/badge/Flyway-planificado-555?labelColor=CC0200&style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway (planificado)">
+  <img src="https://img.shields.io/badge/Docker-planificado-555?labelColor=0db7ed&style=for-the-badge&logo=docker&logoColor=white" alt="Docker (planificado)">
+  <img src="https://img.shields.io/badge/GitHub_Actions-planificado-555?labelColor=2088FF&style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions (planificado)">
+</p>
+
+<p align="center"><b>🎨 Frontend</b></p>
+
+<p align="center"><sub><b>Base</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=primeng&logoColor=white" alt="PrimeNG">
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS">
+  <img src="https://img.shields.io/badge/jsPDF-DC382D?style=for-the-badge" alt="jsPDF">
+</p>
+
+<p align="center"><sub><b>🛠️ Planificado</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium_E2E-planificado-555?labelColor=43B02A&style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium E2E (planificado)">
+  <img src="https://img.shields.io/badge/Vercel-planificado-555?labelColor=000000&style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel (planificado)">
+</p>
+
 
 *Más proyectos pronto — mantente atento.*
 
