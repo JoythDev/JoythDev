@@ -170,13 +170,13 @@ Un sistema fullstack que digitaliza una clínica veterinaria especializada en la
 
 <p align="center">
   <b>Seguridad · Datos · DevOps · Pruebas · Hosting</b><br>
-  <img src="https://img.shields.io/badge/Spring_Security-planificado-555?labelColor=6DB33F&style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security (planificado)">
-  <img src="https://img.shields.io/badge/JWT-planificado-555?labelColor=000000&style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT (planificado)">
+  <img src="https://img.shields.io/badge/Spring_Security-en_curso-555?labelColor=6DB33F&style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security (en curso)">
+  <img src="https://img.shields.io/badge/JWT-en_curso-555?labelColor=000000&style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT (en curso)">
   <img src="https://img.shields.io/badge/PostgreSQL-planificado-555?labelColor=4169E1&style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL (planificado)">
   <img src="https://img.shields.io/badge/Flyway-planificado-555?labelColor=CC0200&style=flat-square&logo=flyway&logoColor=white" alt="Flyway (planificado)">
   <img src="https://img.shields.io/badge/Docker-planificado-555?labelColor=0db7ed&style=flat-square&logo=docker&logoColor=white" alt="Docker (planificado)">
   <img src="https://img.shields.io/badge/GitHub_Actions-planificado-555?labelColor=2088FF&style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions (planificado)">
-  <img src="https://img.shields.io/badge/Selenium_E2E-planificado-555?labelColor=43B02A&style=flat-square&logo=selenium&logoColor=white" alt="Selenium E2E (planificado)">
+  <img src="https://img.shields.io/badge/Selenium_E2E-en_curso-555?labelColor=43B02A&style=flat-square&logo=selenium&logoColor=white" alt="Selenium E2E (en curso)">
   <img src="https://img.shields.io/badge/Vercel-planificado-555?labelColor=000000&style=flat-square&logo=vercel&logoColor=white" alt="Vercel (planificado)">
 </p>
 
