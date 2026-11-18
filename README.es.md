@@ -140,7 +140,7 @@ Un sistema fullstack que digitaliza una clínica veterinaria especializada en la
 
 > **📊 Estado:** Entregas 1–3 completas y **[en producción](https://pethaven-zeta.vercel.app)** (SPA en Vercel, API en Render) — **970 pruebas de backend** con un mínimo de 80% de cobertura con JaCoCo, 2 casos E2E con Selenium y un pipeline de CI con GitHub Actions. El acceso está protegido con Spring Security + JWT y permisos por rol y por recurso propio. El despliegue y la infraestructura se siguen refinando.
 >
-> **🧩 Mi rol:** **líder de backend de un equipo de cuatro personas** y quien más aporta al repositorio. Diseñé el modelo de dominio con JPA/Hibernate y lideré la migración de Thymeleaf a una API REST por capas (DTOs, validaciones, errores centralizados, Swagger), construí los endpoints de KPIs, la gestión de medicamentos con importación desde Excel y la suite de pruebas del backend. También aporto a la interfaz Angular y redacté el roadmap de producción.
+> **🧩 Mi rol:** **líder de backend de un equipo de cuatro personas** y quien más aporta al repositorio. Diseñé el modelo de dominio con JPA/Hibernate y lideré la migración de Thymeleaf a una API REST por capas (DTOs, validaciones, errores centralizados, Swagger), construí los endpoints de KPIs, la gestión de medicamentos con importación desde Excel y la suite de pruebas del backend. Fui quien más aportó a la capa de seguridad: Spring Security con login JWT, contraseñas BCrypt y la matriz de permisos por rol y por recurso propio. También aporto a la interfaz Angular y redacté el roadmap de producción.
 
 <p align="center">
   <b>⚙️ Backend</b><br>
