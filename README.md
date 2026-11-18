@@ -130,7 +130,7 @@ I want to move beyond writing code — I want to build products. My compass:
 
 > Real-world projects to sharpen my craft — from idea to tested, secured, deployable product.
 
-#### 🐾 [PetHaven](https://github.com/JoythDev/pethaven) — Veterinary Clinic Management Platform `🚧 In progress`
+#### 🐾 [PetHaven](https://github.com/JoythDev/pethaven) — Veterinary Clinic Management Platform `🚀 Live`
 
 A fullstack system that digitizes a veterinary clinic specialized in **dog and cat hospitalization** — a Spring Boot **REST API** consumed by an **Angular SPA** with three role-based portals:
 
@@ -138,7 +138,7 @@ A fullstack system that digitizes a veterinary clinic specialized in **dog and c
 * 🐕 **Owners** follow their hospitalized pets and treatment history.
 * 💊 **Admins** manage staff, the medicine inventory (Excel import included) and business KPIs.
 
-> **📊 Status:** Deliveries 1–2 complete; Delivery 3 in progress — **676 backend tests** with an 80%+ JaCoCo coverage gate. Next: Spring Security + JWT, frontend tests and production deployment.
+> **📊 Status:** Deliveries 1–3 complete and **[live in production](https://pethaven-zeta.vercel.app)** (SPA on Vercel, API on Render) — **970 backend tests** with an 80%+ JaCoCo coverage gate, 2 Selenium E2E cases and a GitHub Actions CI pipeline. Access is secured with Spring Security + JWT and role- and ownership-based permissions. Deployment and infrastructure are still being refined.
 >
 > **🧩 My role:** **backend lead of a four-person team** and main contributor. I designed the JPA/Hibernate domain model and led the move from Thymeleaf to a layered REST API (DTOs, validation, centralized errors, Swagger), built the KPI endpoints, medicine management with Excel import, and the backend test suite. I also contribute to the Angular UI and drafted the production roadmap.
 
@@ -149,11 +149,14 @@ A fullstack system that digitizes a veterinary clinic specialized in **dog and c
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate">
   <img src="https://img.shields.io/badge/H2-09476B?style=flat-square&logo=h2database&logoColor=white" alt="H2">
   <img src="https://img.shields.io/badge/Apache_POI-D22128?style=flat-square" alt="Apache POI">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5">
   <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" alt="Mockito">
   <img src="https://img.shields.io/badge/JaCoCo-C21325?style=flat-square" alt="JaCoCo">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
 </p>
 
 <p align="center">
@@ -166,20 +169,22 @@ A fullstack system that digitizes a veterinary clinic specialized in **dog and c
   <img src="https://img.shields.io/badge/jsPDF-DC382D?style=flat-square" alt="jsPDF">
 </p>
 
+<p align="center">
+  <b>🚀 DevOps · Hosting</b><br>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
 <details>
 <summary><b>🛠️ Planned</b> — <i>click to expand</i></summary>
 <br>
 
 <p align="center">
-  <b>Security · Data · DevOps · Testing · Hosting</b><br>
-  <img src="https://img.shields.io/badge/Spring_Security-WIP-555?labelColor=6DB33F&style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security (WIP)">
-  <img src="https://img.shields.io/badge/JWT-WIP-555?labelColor=000000&style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT (WIP)">
+  <b>Data</b><br>
   <img src="https://img.shields.io/badge/PostgreSQL-planned-555?labelColor=4169E1&style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL (planned)">
   <img src="https://img.shields.io/badge/Flyway-planned-555?labelColor=CC0200&style=flat-square&logo=flyway&logoColor=white" alt="Flyway (planned)">
-  <img src="https://img.shields.io/badge/Docker-planned-555?labelColor=0db7ed&style=flat-square&logo=docker&logoColor=white" alt="Docker (planned)">
-  <img src="https://img.shields.io/badge/GitHub_Actions-planned-555?labelColor=2088FF&style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions (planned)">
-  <img src="https://img.shields.io/badge/Selenium_E2E-WIP-555?labelColor=43B02A&style=flat-square&logo=selenium&logoColor=white" alt="Selenium E2E (WIP)">
-  <img src="https://img.shields.io/badge/Vercel-planned-555?labelColor=000000&style=flat-square&logo=vercel&logoColor=white" alt="Vercel (planned)">
 </p>
 
 </details>
