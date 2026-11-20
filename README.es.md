@@ -187,6 +187,12 @@ Un sistema fullstack que digitaliza una clínica veterinaria especializada en la
   <img src="https://img.shields.io/badge/Flyway-planificado-555?labelColor=CC0200&style=flat-square&logo=flyway&logoColor=white" alt="Flyway (planificado)">
 </p>
 
+<p align="center">
+  <b>Verificación por correo</b><br>
+  <img src="https://img.shields.io/badge/Spring_Mail-planificado-555?labelColor=6DB33F&style=flat-square&logo=springboot&logoColor=white" alt="Spring Mail (planificado)">
+  <img src="https://img.shields.io/badge/Resend-planificado-555?labelColor=000000&style=flat-square&logo=resend&logoColor=white" alt="Resend (planificado)">
+</p>
+
 </details>
 
 *Más proyectos pronto — mantente atento.*

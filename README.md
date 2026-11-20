@@ -187,6 +187,12 @@ A fullstack system that digitizes a veterinary clinic specialized in **dog and c
   <img src="https://img.shields.io/badge/Flyway-planned-555?labelColor=CC0200&style=flat-square&logo=flyway&logoColor=white" alt="Flyway (planned)">
 </p>
 
+<p align="center">
+  <b>Email verification</b><br>
+  <img src="https://img.shields.io/badge/Spring_Mail-planned-555?labelColor=6DB33F&style=flat-square&logo=springboot&logoColor=white" alt="Spring Mail (planned)">
+  <img src="https://img.shields.io/badge/Resend-planned-555?labelColor=000000&style=flat-square&logo=resend&logoColor=white" alt="Resend (planned)">
+</p>
+
 </details>
 
 *More projects coming soon — watch this space.*
