@@ -1,237 +1,85 @@
 <p align="right"><a href="README.md">English</a> · <b>Español</b></p>
 
-<h1 align="center">¡Hola! Soy Nicolas Joya 👋</h1>
+<a href="https://joythdev-portfolio.vercel.app/es/">
+  <img src="assets/banner-es.gif" width="100%" alt="JoythDev, Ingeniero Backend. Java, Spring Boot y APIs REST. Disponible para roles backend, remoto o en Bogotá.">
+</a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=640&height=70&lines=Ingeniero+Backend;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;APIs+REST+con+Testing+y+Seguridad;Convirtiendo+c%C3%B3digo+en+soluciones+que+generan+valor" alt="Typing SVG">
+  <a href="https://joythdev-portfolio.vercel.app/es/"><img src="assets/btn-portfolio-es.png" height="36" alt="Portafolio"></a>
+  <a href="https://www.linkedin.com/in/nicolas-joya/"><img src="assets/btn-linkedin-es.png" height="36" alt="LinkedIn"></a>
+  <a href="mailto:nicolas.joya.dev@gmail.com"><img src="assets/btn-email-es.png" height="36" alt="Correo"></a>
+  <a href="https://github.com/JoythDev?tab=repositories"><img src="assets/btn-github-es.png" height="36" alt="Repositorios en GitHub"></a>
 </p>
 
-<h3 align="center">☕ Ingeniero Backend · Java & Spring Boot · Bogotá → Remoto</h3>
+<img src="assets/divider.gif" width="100%" alt="">
+
+### `~/sobre-mí`
+
+Construyo **sistemas backend robustos y escalables** con Java y Spring Boot, y me importa lo que sucede después de escribir el código: probarlo, desplegarlo, observarlo y que sea realmente útil para alguien.
+
+- Basado en **Bogotá, Colombia**, abierto a prácticas y roles junior remotos.
+- Estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana**, especializándome de forma independiente como ingeniero backend.
+- Inmerso en el ecosistema **Java + Spring Boot**: APIs REST, Spring Security, testing, persistencia.
+- Aprendiz constante más allá del código: **despliegue, QA, DevOps, estrategias de testing y desarrollo agéntico**.
+- Meta: unirme a un equipo donde pueda entregar **servicios confiables que generen valor rápido**, y crecer hacia la ingeniería de producto.
+
+### `~/principios`
+
+Quiero ir más allá de escribir código; quiero construir productos. Mi brújula:
+
+- **Primero el valor.** La mejor solución es la que resuelve un problema real rápido, no la más elegante que no resuelve nada.
+- **Calidad como hábito.** Testing (JUnit 5, Mockito), principios SOLID, código limpio, análisis estático. Los bugs detectados temprano son baratos.
+- **Entregarlo.** Apps containerizadas, pipelines de CI/CD y conciencia de despliegue. El software solo genera valor cuando corre en producción.
+- **Pensar en sistemas.** Estudiando arquitectura de software, diseño de sistemas y sistemas distribuidos para entender *por qué* escalan las cosas, no solo *cómo*.
+
+<img src="assets/stack-es.png" width="100%" alt="Stack técnico. Uso diario: backend (Java, Spring Boot, Spring, Hibernate, OpenAPI), datos (PostgreSQL, MySQL), calidad (JUnit 5, Mockito), build (Maven, Gradle, Git). Fortaleciendo: devops (Docker, Kubernetes, GitHub Actions, Jenkins), calidad de código (SonarQube), datos (Redis, Elasticsearch, Kafka, RabbitMQ), seguridad (Spring Security, JWT, OAuth2). Ampliando horizontes: fullstack (Angular, TypeScript, Tailwind CSS, PrimeNG), web (JavaScript, HTML, CSS), móvil (Kotlin, Jetpack Compose, Firebase, Mapbox), asistido con IA (Claude Code, Codex, OpenCode, Orca ADE, Cursor).">
+
+### `~/proyectos`
+
+Proyectos del mundo real para afilar mi oficio, de la idea a un producto probado, seguro y desplegable.
+
+<a href="https://github.com/JoythDev/pethaven">
+  <img src="assets/project-pethaven-es.png" width="100%" alt="PetHaven, en vivo. Plataforma de gestión para clínicas veterinarias. 970 tests de backend, umbral de cobertura JaCoCo de 80%+, 3 portales por rol. Java 21, Spring Boot 4, Spring Security, JWT, JPA/Hibernate, H2, Apache POI, Swagger, JUnit 5, Mockito, JaCoCo, Selenium, Angular 19, Docker, GitHub Actions. Planeado: PostgreSQL, Flyway, Spring Mail, Resend.">
+</a>
+
+Un sistema fullstack que digitaliza una clínica veterinaria especializada en la **hospitalización de perros y gatos**: una **API REST** en Spring Boot consumida por una **SPA en Angular** con tres portales según el rol. Los veterinarios registran tratamientos con descuento automático de inventario y descargan historias clínicas en PDF; los dueños siguen a sus mascotas hospitalizadas; los administradores gestionan el equipo, el inventario de medicamentos (con importación desde Excel) y los KPIs del negocio.
+
+- **Estado:** entregas 1–3 completas y **[en producción](https://pethaven-zeta.vercel.app)** (SPA en Vercel, API en Render), con 2 casos E2E con Selenium y un pipeline de CI con GitHub Actions. El despliegue y la infraestructura se siguen refinando.
+- **Mi rol:** **líder de backend de un equipo de cuatro personas** y quien más aporta al repositorio. Diseñé el modelo de dominio con JPA/Hibernate, lideré la migración de Thymeleaf a una API REST por capas (DTOs, validaciones, errores centralizados, Swagger), construí los endpoints de KPIs, la gestión de medicamentos con importación desde Excel y la suite de pruebas del backend, y fui quien más aportó a la capa de seguridad: Spring Security con login JWT, contraseñas BCrypt y la matriz de permisos por rol y por recurso propio.
+
+<a href="https://github.com/JoythDev/fashtoll">
+  <img src="assets/project-fashtoll-es.png" width="100%" alt="Fashtoll, en progreso. Plataforma de descubrimiento para marcas de moda independientes. Cerca del 52% de los commits, 128 tests unitarios, equipo de 4 personas. Java 21, Spring Boot 4, Spring Security, JWT, PostgreSQL, Flyway, Twilio, OpenAPI, JUnit 5, Mockito, JaCoCo, PMD, SonarQube, Docker, GitHub Actions.">
+</a>
+
+Una plataforma en Spring Boot que conecta marcas de moda locales con compradores conscientes: perfiles de marca, catálogo y búsqueda de productos, listas de deseos, seguimiento de marcas y reseñas. Nació como un proyecto universitario de cuatro personas para CEIBA, una empresa ficticia, y ahora lo estoy rediseñando como un backend de nivel productivo.
+
+- **Mi rol:** desarrollador backend, product owner y configuration manager; principal contribuidor del repositorio.
+- Construí de punta a punta los módulos de lista de deseos, marcas seguidas y reseñas de productos y marcas (entidades, DTOs, mappers, servicios y endpoints REST), agregué notificaciones por SMS con Twilio y configuré los pipelines de CI/CD, los reportes de cobertura con JaCoCo y la documentación de la API publicada automáticamente con Scalar.
+
+### `~/estadísticas`
 
 <p align="center">
-  <a href="https://github.com/JoythDev"><img src="https://img.shields.io/badge/GitHub-JoythDev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:nicolas.joya.dev@gmail.com"><img src="https://img.shields.io/badge/Email-nicolas.joya.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/nicolas-joya/"><img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Joya-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
-<p align="center">Construyo <strong>sistemas backend robustos y escalables</strong> con Java y Spring Boot — y me importa lo que sucede después de escribir el código: probarlo, desplegarlo, observarlo y que sea realmente útil para alguien.</p>
-
----
-
-### 📖 Sobre mí
-
-* 📍 Radicado en **Bogotá, Colombia** — abierto a pasantías y roles junior remotos.
-* 🎓 Estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana**, especializándome de forma autodidacta como ingeniero backend.
-* ☕ Inmerso en el ecosistema **Java + Spring Boot**: APIs REST, Spring Security, testing, persistencia.
-* 🔄 Aprendiz constante más allá del código: **despliegue, QA, DevOps, estrategias de testing y desarrollo agéntico**.
-* 🎯 Meta: unirme a un equipo donde pueda entregar **servicios confiables que generen valor rápido** — y crecer hacia la ingeniería de producto.
-
----
-
-### 🧭 Cómo abordo la ingeniería
-
-Quiero ir más allá de escribir código — quiero construir productos. Mi brújula:
-
-* 🎯 **Primero el valor** — La mejor solución es la que resuelve un problema real rápido, no la más elegante que no resuelve nada.
-* ✅ **Calidad como hábito** — Testing (JUnit 5, Mockito), principios SOLID, código limpio, análisis estático. Los bugs detectados temprano son baratos.
-* 🚀 **Entregarlo** — Apps containerizadas, pipelines de CI/CD y conciencia de despliegue. El software solo genera valor cuando corre en producción.
-* 🏗️ **Pensar en sistemas** — Estudiando arquitectura de software, diseño de sistemas y sistemas distribuidos para entender *por qué* escalan las cosas, no solo *cómo*.
-
----
-
-### 🛠️ Habilidades y Tecnologías
-
-**Stack principal — mis herramientas de todos los días**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger/OpenAPI">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5">
-  <img src="https://img.shields.io/badge/Mockito-78CFF5?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Apache Maven">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
-<details>
-<summary><b>⚡ Fortaleciendo activamente</b> — <i>clic para expandir</i></summary>
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonar&logoColor=white" alt="SonarQube">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
-  <img src="https://img.shields.io/badge/OAuth2-eb5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth2">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security">
-</p>
-
-</details>
-
-<details>
-<summary><b>🌱 Ampliando horizontes</b> — <i>fullstack, móvil y desarrollo asistido con IA</i></summary>
-<br>
-
-**Ruta fullstack**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge" alt="PrimeNG">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-</p>
-
-**Ruta móvil**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Mapbox-4264FB?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox">
-</p>
-
-**Desarrollo asistido con IA**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTE5LjUwMyAwSDQuNDk2QTQuNDk2IDQuNDk2IDAgMDAwIDQuNDk2djE1LjAwN0E0LjQ5NiA0LjQ5NiAwIDAwNC40OTYgMjRoMTUuMDA3QTQuNDk2IDQuNDk2IDAgMDAyNCAxOS41MDNWNC40OTZBNC40OTYgNC40OTYgMCAwMDE5LjUwMyAweiIgZmlsbD0iI2ZmZiI%2BPC9wYXRoPjxwYXRoIGQ9Ik05LjA2NCAzLjM0NGE0LjU3OCA0LjU3OCAwIDAxMi4yODUtLjMxMmMxIC4xMTUgMS44OTEuNTQgMi42NzMgMS4yNzUuMDEuMDEuMDI0LjAxNy4wMzcuMDIxYS4wOS4wOSAwIDAwLjA0MyAwIDQuNTUgNC41NSAwIDAxMy4wNDYuMjc1bC4wNDcuMDIyLjExNi4wNTdhNC41ODEgNC41ODEgMCAwMTIuMTg4IDIuMzk5Yy4yMDkuNTEuMzEzIDEuMDQxLjMxNSAxLjU5NWE0LjI0IDQuMjQgMCAwMS0uMTM0IDEuMjIzLjEyMy4xMjMgMCAwMC4wMy4xMTVjLjU5NC42MDcuOTg4IDEuMzMgMS4xODMgMi4xNy4yODkgMS40MjUtLjAwNyAyLjcxLS44ODcgMy44NTRsLS4xMzYuMTY2YTQuNTQ4IDQuNTQ4IDAgMDEtMi4yMDEgMS4zODguMTIzLjEyMyAwIDAwLS4wODEuMDc2Yy0uMTkxLjU1MS0uMzgzIDEuMDIzLS43NCAxLjQ5NC0uOSAxLjE4Ny0yLjIyMiAxLjg0Ni0zLjcxMSAxLjgzOC0xLjE4Ny0uMDA2LTIuMjM5LS40NC0zLjE1Ny0xLjMwMmEuMTA3LjEwNyAwIDAwLS4xMDUtLjAyNGMtLjM4OC4xMjUtLjc4LjE0My0xLjIwNC4xMzhhNC40NDEgNC40NDEgMCAwMS0xLjk0NS0uNDY2IDQuNTQ0IDQuNTQ0IDAgMDEtMS42MS0xLjMzNWMtLjE1Mi0uMjAyLS4zMDMtLjM5Mi0uNDE0LS42MTdhNS44MSA1LjgxIDAgMDEtLjM3LS45NjEgNC41ODIgNC41ODIgMCAwMS0uMDE0LTIuMjk4LjEyNC4xMjQgMCAwMC4wMDYtLjA1Ni4wODUuMDg1IDAgMDAtLjAyNy0uMDQ4IDQuNDY3IDQuNDY3IDAgMDEtMS4wMzQtMS42NTEgMy44OTYgMy44OTYgMCAwMS0uMjUxLTEuMTkyIDUuMTg5IDUuMTg5IDAgMDEuMTQxLTEuNmMuMzM3LTEuMTEyLjk4Mi0xLjk4NSAxLjkzMy0yLjYxOC4yMTItLjE0MS40MTMtLjI1MS42MDEtLjMzLjIxNS0uMDg5LjQzLS4xNjQuNjQ2LS4yMjdhLjA5OC4wOTggMCAwMC4wNjUtLjA2NiA0LjUxIDQuNTEgMCAwMS44MjktMS42MTUgNC41MzUgNC41MzUgMCAwMTEuODM3LTEuMzg4em0zLjQ4MiAxMC41NjVhLjYzNy42MzcgMCAwMDAgMS4yNzJoMy42MzZhLjYzNy42MzcgMCAxMDAtMS4yNzJoLTMuNjM2ek04LjQ2MiA5LjIzYS42MzcuNjM3IDAgMDAtMS4xMDYuNjMxbDEuMjcyIDIuMjI0LTEuMjY2IDIuMTM2YS42MzYuNjM2IDAgMTAxLjA5NS42NDlsMS40NTQtMi40NTVhLjYzNi42MzYgMCAwMC4wMDUtLjY0TDguNDYyIDkuMjN6IiBmaWxsPSJ1cmwoI2xvYmUtaWNvbnMtY29kZXgtX1JfMF8pIj48L3BhdGg%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBpZD0ibG9iZS1pY29ucy1jb2RleC1fUl8wXyIgeDE9IjEyIiB4Mj0iMTIiIHkxPSIzIiB5Mj0iMjEiPjxzdG9wIHN0b3AtY29sb3I9IiNCMUE3RkYiPjwvc3RvcD48c3RvcCBvZmZzZXQ9Ii41IiBzdG9wLWNvbG9yPSIjN0E5REZGIj48L3N0b3A%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzk0MUZGIj48L3N0b3A%2BPC9saW5lYXJHcmFkaWVudD48L2RlZnM%2BPC9zdmc%2B&logoColor=white" alt="Codex">
-  <img src="https://img.shields.io/badge/OpenCode-18181B?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode">
-  <img src="https://img.shields.io/badge/Orca_ADE-6C63FF?style=for-the-badge&logoColor=white" alt="Orca ADE">
-  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
-</p>
-
-</details>
-
----
-
-### 🔨 Construyendo ahora
-
-> Proyectos del mundo real para afilar mi oficio — de la idea a un producto probado, seguro y desplegable.
-
-#### 🐾 PetHaven — Plataforma de Gestión para Clínicas Veterinarias `🚀 En producción`
-
-Un sistema fullstack que digitaliza una clínica veterinaria especializada en la **hospitalización de perros y gatos** — una **API REST** en Spring Boot consumida por una **SPA en Angular** con tres portales según el rol:
-
-* 🩺 Los **veterinarios** registran tratamientos con descuento automático de inventario y descargan historias clínicas en PDF.
-* 🐕 Los **dueños** siguen a sus mascotas hospitalizadas y su historial de tratamientos.
-* 💊 Los **administradores** gestionan el equipo, el inventario de medicamentos (con importación desde Excel) y los KPIs del negocio.
-
-> **📊 Estado:** Entregas 1–3 completas y **[en producción](https://pethaven-zeta.vercel.app)** (SPA en Vercel, API en Render) — **970 pruebas de backend** con un mínimo de 80% de cobertura con JaCoCo, 2 casos E2E con Selenium y un pipeline de CI con GitHub Actions. El acceso está protegido con Spring Security + JWT y permisos por rol y por recurso propio. El despliegue y la infraestructura se siguen refinando.
->
-> **🧩 Mi rol:** **líder de backend de un equipo de cuatro personas** y quien más aporta al repositorio. Diseñé el modelo de dominio con JPA/Hibernate y lideré la migración de Thymeleaf a una API REST por capas (DTOs, validaciones, errores centralizados, Swagger), construí los endpoints de KPIs, la gestión de medicamentos con importación desde Excel y la suite de pruebas del backend. Fui quien más aportó a la capa de seguridad: Spring Security con login JWT, contraseñas BCrypt y la matriz de permisos por rol y por recurso propio. También aporto a la interfaz Angular y redacté el roadmap de producción.
-
-<p align="center">
-  <b>⚙️ Backend</b><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate">
-  <img src="https://img.shields.io/badge/H2-09476B?style=flat-square&logo=h2database&logoColor=white" alt="H2">
-  <img src="https://img.shields.io/badge/Apache_POI-D22128?style=flat-square" alt="Apache POI">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security">
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5">
-  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" alt="Mockito">
-  <img src="https://img.shields.io/badge/JaCoCo-C21325?style=flat-square" alt="JaCoCo">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+  <a href="https://github.com/JoythDev"><img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=JoythDev&show_icons=true&include_all_commits=true&hide_border=true&title_color=a08cff&text_color=c7c1ea&icon_color=5324ff&bg_color=07041a" alt="Estadísticas de GitHub"></a>
+  <img height="180" src="https://streak-stats.demolab.com?user=JoythDev&hide_border=true&background=07041A&ring=5324FF&fire=A08CFF&currStreakLabel=A08CFF&sideLabels=C7C1EA&currStreakNum=ECE8FF&sideNums=ECE8FF&dates=8D86B3" alt="Racha de contribuciones">
 </p>
 
 <p align="center">
-  <b>🎨 Frontend</b><br>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square&logo=primeng&logoColor=white" alt="PrimeNG">
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS">
-  <img src="https://img.shields.io/badge/jsPDF-DC382D?style=flat-square" alt="jsPDF">
-</p>
-
-<p align="center">
-  <b>🚀 DevOps · Hosting</b><br>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-</p>
-
-<details>
-<summary><b>🛠️ Planificado</b> — <i>clic para expandir</i></summary>
-<br>
-
-<p align="center">
-  <b>Datos</b><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-planificado-555?labelColor=4169E1&style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL (planificado)">
-  <img src="https://img.shields.io/badge/Flyway-planificado-555?labelColor=CC0200&style=flat-square&logo=flyway&logoColor=white" alt="Flyway (planificado)">
-</p>
-
-<p align="center">
-  <b>Verificación por correo</b><br>
-  <img src="https://img.shields.io/badge/Spring_Mail-planificado-555?labelColor=6DB33F&style=flat-square&logo=springboot&logoColor=white" alt="Spring Mail (planificado)">
-  <img src="https://img.shields.io/badge/Resend-planificado-555?labelColor=000000&style=flat-square&logo=resend&logoColor=white" alt="Resend (planificado)">
-</p>
-
-</details>
-
-*Más proyectos pronto — mantente atento.*
-
-👔 *Fashtoll (pronto)*
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://github.com/JoythDev">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=JoythDev&show_icons=true&include_all_commits=true&hide_border=true&title_color=70a5fd&text_color=c9d1d9&icon_color=38bdae&bg_color=0d1117" alt="GitHub Stats">
-  </a>
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=JoythDev&hide_border=true&background=0d1117&ring=70a5fd&fire=38bdae&currStreakLabel=70a5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="Racha de Contribuciones">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JoythDev/JoythDev/assets/contribution-graph.svg" alt="Gráfico de Contribuciones">
+  <img src="https://raw.githubusercontent.com/JoythDev/JoythDev/assets/contribution-graph.svg" alt="Gráfico de contribuciones">
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoythDev/JoythDev/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoythDev/JoythDev/output/github-contribution-grid-snake.svg">
-    <img alt="Serpiente de Contribuciones" src="https://raw.githubusercontent.com/JoythDev/JoythDev/output/github-contribution-grid-snake.svg">
+    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/JoythDev/JoythDev/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
----
+### `~/contacto`
 
-### 📫 Conecta conmigo
+Hablemos de desarrollo backend, arquitectura o tecnología en general: **[nicolas.joya.dev@gmail.com](mailto:nicolas.joya.dev@gmail.com)** o **[LinkedIn](https://www.linkedin.com/in/nicolas-joya/)**. Más sobre mi trabajo en **[joythdev-portfolio.vercel.app/es](https://joythdev-portfolio.vercel.app/es/)**.
 
-¡Hablemos de desarrollo backend, arquitectura o tecnología en general!
-
-* 📧 **Email:** [nicolas.joya.dev@gmail.com](mailto:nicolas.joya.dev@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/nicolas-joya](https://www.linkedin.com/in/nicolas-joya/)
-
----
+<img src="assets/divider.gif" width="100%" alt="">
 
 <p align="center"><em>"El código se ha vuelto una commodity; la arquitectura de sistemas, las restricciones y el contexto de negocio son las verdaderas fronteras de la ingeniería."</em></p>
 

@@ -25,14 +25,14 @@ const HEIGHT = 300;
 const PADDING = { top: 64, right: 26, bottom: 44, left: 54 };
 
 const COLORS = {
-  background: "#0d1117",
-  title: "#c9d1d9",
-  subtitle: "#8b949e",
-  grid: "#21262d",
-  axis: "#6e7681",
-  line: "#38bdae",
-  point: "#70a5fd",
-  area: "#38bdae",
+  background: "#07041a",
+  title: "#ece8ff",
+  subtitle: "#8d86b3",
+  grid: "#251c55",
+  axis: "#8d86b3",
+  line: "#a08cff",
+  point: "#ece8ff",
+  area: "#5324ff",
 };
 
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
